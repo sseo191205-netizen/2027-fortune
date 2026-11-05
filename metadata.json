@@ -1,0 +1,6 @@
+{
+  "name": "2027 미래 운세 카드",
+  "description": "2027년, 당신의 미래가 도착했습니다. 경상남도교육청 미래교육원 2027 미래 운세 카드 인터랙티브 웹게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
